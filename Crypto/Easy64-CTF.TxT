@@ -1,0 +1,18 @@
+Copyright:
+Elhouari Tahar Amine | Penetration Tester
+https://www.TaharAmine.com/
+https://www.TaharAmine.net/
+
+More:
+https://github.com/TheBlaCkCoDeR09/TheBlaCkCoDeR-CTF
+
+Challenge:
+RmxhZyA
+PiBUaGVCbGFDa0NvRGVSe1NwZWVkVG91Y2hfQ1RGfQo
+
+Hint: 
+You can join the two strings using + and following the tail with =
+
+Solution: Crack the Key and get the Flag
+
+Hint: Flag is like TheBlaCkCoDeR{Elhouari_Tahar_Amine_2017}

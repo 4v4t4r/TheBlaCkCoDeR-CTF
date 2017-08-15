@@ -1,0 +1,16 @@
+Copyright:
+Elhouari Tahar Amine | Penetration Tester
+https://www.TaharAmine.com/
+https://www.TaharAmine.net/
+
+More:
+https://github.com/TheBlaCkCoDeR09/TheBlaCkCoDeR-CTF
+
+Challenge:
+HWyeeThe elCnFBla lcTglCkC loFeaoDe
+omCG4R{} deheG01 utatB23 doltr45 eMlho67
+
+Hint: 
+Reorder them, format Text and get the flag, H4CKeR
+
+Hint: Flag is like TheBlaCkCoDeR{Elhouari_Tahar_Amine_2017}
