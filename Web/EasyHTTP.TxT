@@ -1,0 +1,20 @@
+Copyright:
+Elhouari Tahar Amine | Penetration Tester
+https://www.TaharAmine.com/
+https://www.TaharAmine.net/
+
+More:
+https://github.com/TheBlaCkCoDeR09/TheBlaCkCoDeR-CTF
+
+Challenge:
+HTTP/1.1 200 OK
+Copyright: https://github.com/TheBlaCkCoDeR09/TheBlaCkCoDeR-CTF
+Date: Wed, 16 Aug 2018 12:33:01 GMT
+Server: LiteSpeed (TheBlaCkCoDeR)
+DATA: gZHvryuX5Av5nvvrJD9V4dF8+GYkqFdDlAw+m/dPUNw=
+Content-Length: 30
+Connection: Keep-H4CK!NG
+Content-Type: CTF/Web; charset=UTF-8
+
+Hint: From S!MPL3 to SEA & 5DM
+Hint: Flag is like TheBlaCkCoDeR{Elhouari_Tahar_Amine_2017}
